@@ -1,0 +1,199 @@
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main {
+  width: 1440px;
+  background-color: white;
+  margin: auto;
+  margin-top: 100px;
+  padding: 28px 165px 132px 165px;
+}
+
+header {
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.div1 {
+  display: flex;
+  align-items: center;
+  gap: 56px;
+}
+.ul1 {
+  display: flex;
+  gap: 33px;
+}
+.li1 {
+  list-style: none;
+  color: #69707d;
+  font-size: 15px;
+  font-family: "Kumbh Sans", sans-serif;
+}
+a{
+  text-decoration: none;
+  color: #69707d;
+}
+.div2 {
+  display: flex;
+  align-items: center;
+  gap: 46px;
+}
+.img2 {
+  width: 21px;
+  height: 20px;
+}
+.img3 {
+  width: 50px;
+  height: 50px;
+  
+}
+
+.hr1 {
+  height: 1px;
+  background-color: #e4e9f2;
+  margin-top: 34px;
+  margin-bottom: 90px;
+}
+section {
+  width: 1015px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sectiondiv1 {
+  background-color: white;
+}
+.img4{
+  width: 445px;
+}
+.img4shvilebi {
+  display: flex;
+  align-items: center;
+  margin-top: 23px;
+  gap: 31px;
+
+
+}
+.sectiondiv2 {
+  background-color: white;
+  margin-left: 125px;
+}
+.p1 {
+  font-size: 13px;
+  color: #ff7e1b;
+  font-family: "Kumbh Sans", sans-serif;
+  margin-bottom: 24px;
+}
+.p2 {
+  font-size: 44px;
+  font-weight: bold;
+  color: #1d2026;
+  font-family: "Kumbh Sans", sans-serif;
+  margin-bottom: 32px;
+}
+.p3 {
+  font-size: 16px;
+  color: #69707d;
+  font-family: "Kumbh Sans", sans-serif;
+  margin-bottom: 28px;
+}
+
+.div4shvili {
+  display: flex;
+  align-items: center;
+  gap: 23px;
+  margin-bottom: 3px;
+}
+.p4 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1d2026;
+  font-family: "Kumbh Sans", sans-serif;
+}
+.div4shvili2 {
+  background-color: #ffeee2;
+  border-radius: 6px;
+  padding: 4px 10px;
+} 
+ .p5 {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Kumbh Sans", sans-serif;
+  color: #ff7e1b;
+  padding: 7px 8px;
+  background-color: #FFEEE2;
+  border-radius: 6px;
+}
+.p6 {
+  font-size: 16px;
+  color: #b6bcc8;
+  font-weight: bold;
+  text-decoration: line-through;
+  margin-bottom: 32px;
+}
+.div5 {
+  display: flex;
+  align-items: center;
+gap: 16px;
+}
+.div5shvili1{
+    width: 157px;
+    height: 56px;
+    background-color: #F6F8FD;
+border-radius: 10px;
+display: flex;
+padding: 25px;
+justify-content: space-between;
+}
+.ul2{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.li2{
+    list-style: none;
+    color: #FF7E1B;
+    font-weight: bold;
+    font-size: 30px;
+}
+.li4{
+  list-style: none;
+  color: #FF7E1B;
+  font-weight: bold;
+  font-size: 30px;
+}
+.li3{
+    list-style: none;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Kumbh Sans", sans-serif;
+}
+.div5shvili2{
+width: 272px;
+height: 56px;
+background-color: #FF7E1B;
+border-radius: 10px;
+display: flex;
+align-items: center;
+padding: 16px 50px 16px 76px;
+gap: 15px;
+}
+.img6{
+  width: 17px;
+  height: 16px;
+
+}
+.p7{
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Kumbh Sans", sans-serif;
+  color: white;
+}
+
